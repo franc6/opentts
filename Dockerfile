@@ -12,7 +12,7 @@
 # * pypi - https://github.com/jayfk/docker-pypi-cache
 # -----------------------------------------------------------------------------
 
-FROM ubuntu:eoan
+FROM ubuntu:focal
 ARG TARGETARCH
 ARG TARGETVARIANT
 
